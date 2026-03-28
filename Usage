@@ -1,0 +1,18 @@
+Predict Stock Price
+bashCopyCopied!
+python main.py --asset AAPL --days 7
+Predict Crypto Price
+bashCopyCopied!
+python main.py --asset BTC-USD --days 14
+Compare Models
+bashCopyCopied!
+python main.py --asset TSLA --compare
+Generate Visual Report
+bashCopyCopied!
+python main.py --asset ETH-USD --days 7 --visualize
+Interactive Mode
+bashCopyCopied!
+python main.py --interactive
+Backtest Model
+bashCopyCopied!
+python main.py --asset AAPL --backtest --period 90
