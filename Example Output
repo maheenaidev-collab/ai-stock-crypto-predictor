@@ -1,0 +1,21 @@
+📈 AI Stock & Crypto Predictor
+================================
+Asset: BTC-USD (Bitcoin)
+Current Price: $67,532.41
+Period Analyzed: 365 days
+
+📊 Technical Signals:
+  RSI (14): 58.3 — Neutral
+  MACD: Bullish crossover
+  Bollinger: Price near middle band
+  SMA 20/50: Golden cross ✅
+
+🤖 Model Predictions (Next 7 Days):
+  Linear Regression: $68,200 (+0.99%)
+  Random Forest:     $69,150 (+2.40%)
+  LSTM Network:      $68,800 (+1.88%)
+  
+  Ensemble Average:  $68,717 (+1.75%)
+
+📊 Trend: 🟢 BULLISH
+   Confidence: 78%
