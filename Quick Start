@@ -1,0 +1,8 @@
+from predictor import StockPredictor
+
+predictor = StockPredictor()
+
+# Predict Bitcoin price
+result = predictor.predict("BTC-USD", days=7)
+print(result)
+# Output: {'asset': 'BTC-USD', 'current_price': 67500, 'predicted_prices': [...], 'trend': 'bullish', 'confidence': 0.78}
