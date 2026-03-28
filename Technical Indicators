@@ -1,0 +1,9 @@
+Indicator	Description	Use
+SMA (20, 50)	Simple Moving Average	Trend direction
+EMA (12, 26)	Exponential Moving Average	Recent trend weight
+RSI	Relative Strength Index	Overbought/oversold
+MACD	Moving Average Convergence Divergence	Momentum
+Bollinger Bands	Volatility bands	Support/resistance
+Volume SMA	Volume moving average	Volume trends
+Daily Returns	Percentage change	Volatility measure
+ATR	Average True Range	Volatility
