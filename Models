@@ -1,0 +1,4 @@
+Model	Best For	Speed	Accuracy
+Linear Regression	Simple trends	⚡ Fast	⭐⭐
+Random Forest	Complex patterns	🔄 Medium	⭐⭐⭐
+LSTM Neural Network	Sequential data	🐢 Slow	⭐⭐⭐⭐
