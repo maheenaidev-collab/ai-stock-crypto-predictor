@@ -1,0 +1,16 @@
+ai-stock-crypto-predictor/
+├── main.py                 # CLI entry point
+├── predictor.py            # Core prediction engine
+├── data_fetcher.py         # Market data fetching
+├── indicators.py           # Technical indicators
+├── models/
+│   ├── linear_model.py     # Linear Regression
+│   ├── forest_model.py     # Random Forest
+│   └── lstm_model.py       # LSTM Neural Network
+├── visualizer.py           # Charts and graphs
+├── backtester.py           # Backtesting engine
+├── utils.py                # Helper functions
+├── requirements.txt        # Dependencies
+├── output/                 # Generated reports
+└── README.md
+📉 Example Output
